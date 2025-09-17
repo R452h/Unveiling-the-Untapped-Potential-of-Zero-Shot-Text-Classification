@@ -58,7 +58,7 @@ We experimented with three datasets:
 | Twitter Data | **ZSL** | **0.93** | 0.84 | 0.97 | 0.90 |
 |             | Naive Bayes | 0.89 | 0.89 | 0.89 | 0.89 |
 |             | SVM         | 0.89 | 0.89 | 0.89 | 0.89 |
-|             | RNN         | 0.87 | 0.80 | 0.71 | 0.75 |
+|             | RNN         | 0.87 | 0.78 | 0.73 | 0.75 |
 | Restaurant Reviews | **ZSL** | **0.98** | 0.97 | 0.98 | 0.98 |
 |             | Naive Bayes | 0.83 | 0.83 | 0.81 | 0.82 |
 |             | SVM         | 0.79 | 0.80 | 0.79 | 0.79 |
