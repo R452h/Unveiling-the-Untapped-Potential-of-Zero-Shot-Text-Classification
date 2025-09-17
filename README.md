@@ -105,4 +105,26 @@ Key references include recent works on ZSL in **healthcare, social media, and ne
 <img width="1007" height="543" alt="image" src="https://github.com/user-attachments/assets/74ad110e-ff20-450a-8197-af5ad9f099f2" />
 /example.png)
 <img width="925" height="516" alt="image" src="https://github.com/user-attachments/assets/14296bbe-fa7a-465f-ab50-31bec495eed2" />
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/7334f8bc-0b68-47bb-a005-12ee7807f68b" />
+<img width="947" height="626" alt="image" src="https://github.com/user-attachments/assets/f8d16434-f1c5-46e9-a554-006eb3cb7fe0" />
+<img width="960" height="416" alt="image" src="https://github.com/user-attachments/assets/69647694-ba0f-49ce-810b-715ceb49cfbb" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/a2aa7d21-fb39-492a-8a60-3fcdace6ba82" />
+<img width="948" height="571" alt="image" src="https://github.com/user-attachments/assets/7efa5dfc-b1f2-4609-a226-20dc687bc952" />
+<img width="956" height="538" alt="image" src="https://github.com/user-attachments/assets/500c893d-8d2d-40f0-8eaa-2fb14a83913d" />
+<img width="1014" height="561" alt="image" src="https://github.com/user-attachments/assets/82ef1fcf-2eec-4981-80de-8fa061170fd8" />
+<img width="1014" height="570" alt="image" src="https://github.com/user-attachments/assets/2a2e291d-6b9c-4ba0-81c8-2cc6d8050055" />
+<img width="1013" height="570" alt="image" src="https://github.com/user-attachments/assets/3390443a-d19b-4d19-b941-c330490faf02" />
+<img width="1009" height="567" alt="image" src="https://github.com/user-attachments/assets/7678aef5-5a0d-45b6-8e70-ab76dbc373c0" />
+<img width="984" height="554" alt="image" src="https://github.com/user-attachments/assets/a7598fe9-405a-4802-8b37-b4b5c3724f32" />
+
+
+
+
+
+
+
+
+
+
+
 
