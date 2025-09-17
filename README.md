@@ -102,3 +102,6 @@ We experimented with three datasets:
 ## 📜 References
 Key references include recent works on ZSL in **healthcare, social media, and news classification**.  
 (Full reference list is available in the project report.)
+![Screenshot](https://github.com/username/repo-name/assets/<img width="1007" height="543" alt="image" src="https://github.com/user-attachments/assets/74ad110e-ff20-450a-8197-af5ad9f099f2" />
+/example.png)
+
