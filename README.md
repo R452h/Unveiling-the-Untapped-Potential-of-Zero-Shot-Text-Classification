@@ -115,7 +115,8 @@ Key references include recent works on ZSL in **healthcare, social media, and ne
 <img width="1014" height="570" alt="image" src="https://github.com/user-attachments/assets/2a2e291d-6b9c-4ba0-81c8-2cc6d8050055" />
 <img width="1013" height="570" alt="image" src="https://github.com/user-attachments/assets/3390443a-d19b-4d19-b941-c330490faf02" />
 <img width="1009" height="567" alt="image" src="https://github.com/user-attachments/assets/7678aef5-5a0d-45b6-8e70-ab76dbc373c0" />
-<img width="984" height="554" alt="image" src="https://github.com/user-attachments/assets/a7598fe9-405a-4802-8b37-b4b5c3724f32" />
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/fba2d6ec-d1a9-48fa-b3f3-bb3ab8291a4f" />
+
 
 
 
