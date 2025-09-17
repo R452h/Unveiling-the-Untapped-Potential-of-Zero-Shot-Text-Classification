@@ -62,7 +62,7 @@ We experimented with three datasets:
 | Restaurant Reviews | **ZSL** | **0.98** | 0.97 | 0.98 | 0.98 |
 |             | Naive Bayes | 0.83 | 0.83 | 0.81 | 0.82 |
 |             | SVM         | 0.79 | 0.80 | 0.79 | 0.79 |
-|             | RNN         | 0.78 | 0.78 | 0.80 | 0.77 |
+|             | RNN         | 0.78 | 0.78 | 0.80 | 0.79 |
 
 📌 **ZSL consistently outperformed traditional models**, achieving near-perfect results on restaurant reviews.
 
