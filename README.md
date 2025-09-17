@@ -104,4 +104,5 @@ Key references include recent works on ZSL in **healthcare, social media, and ne
 (Full reference list is available in the project report.)
 <img width="1007" height="543" alt="image" src="https://github.com/user-attachments/assets/74ad110e-ff20-450a-8197-af5ad9f099f2" />
 /example.png)
+<img width="925" height="516" alt="image" src="https://github.com/user-attachments/assets/14296bbe-fa7a-465f-ab50-31bec495eed2" />
 
